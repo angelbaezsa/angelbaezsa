@@ -1,4 +1,4 @@
-### Hi humans 👋
+### Hi there! 👋
 
 # 💫 About Me:
 🔭 I’m currently working on: News explorer, fullstack app and various freelance projects<br>👯 I’m looking to collaborate on: web applications<br>🌱 I’m currently learning: firebase<br>💬 Ask me about: How did I maganage to change careers<br>⚡ Fun fact: I've learned the software basics using delphi
